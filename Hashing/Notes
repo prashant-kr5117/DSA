@@ -1,0 +1,14 @@
+Map:
+ Insertion : O(log(n))
+accessing:O(log(n))
+deletion: O(log(n))
+implement using : red black tree 
+Sytax : map<datatype,datatype> name;
+Unordered maps :
+
+
+
+ Insertion:O(1) {on average}
+ accessing: O(1)
+implemented using : Hash tables (basically array of buckets)
+Sytax : unordered_map<datatype,datatype> name;
