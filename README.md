@@ -27,3 +27,10 @@ Binary Search :-This is more efficient because it splits the data into two entit
 
 Q 6 How does BS work?
 ans- It works on ordered data. 
+In this we find the  middle elmemntof the array and our search begins from here . If the middle element is less than the target element then we will search on the right side of the array else form left part and then again we find the mid element untile we get our element .
+
+Q 7 How are individual elements acces in array  ?
+Ans"- In array each values is assgigned in ans index position from 0 to n-1 wher n is the number of elments . and each element  can be axis by by their elment .and in multi dimentional array we way have two index from which we can find the element.
+
+Q 8 what is a queue data structure?
+Ans :- 
