@@ -1,0 +1,2 @@
+Q 1 - Why linked list are not cache friendly?
+ans:- Linked list and similar structures are not CPU cache friendly because each node can be randomly aranged in memory resulting in many cache misses .
